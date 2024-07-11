@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>captain</GradientText> 👋
+          hey there, welcome to <GradientText>rormor</GradientText> 🤪
         </>
       }
       description={
@@ -24,13 +24,13 @@ const Hero = () => (
           <a className="text-cyan-400 hover:underline" href="/">
             new tech.
           </a>{' '}
-          Not that I went without, I just had to get creative.
+          Not that I went without, I just had to get creative 😏
         </>
       }
       avatar={
         <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          className="h-90 w-90"
+          src="/assets/images/1.png"
           alt="Avatar image"
           loading="lazy"
         />
@@ -55,7 +55,7 @@ const Hero = () => (
               alt="Linkedin icon"
             />
           </a>
-          <a href="/">
+          <a href="https://youtube.com/@modafaku/">
             <HeroSocial
               src="/assets/images/youtube-icon.png"
               alt="Youtube icon"
