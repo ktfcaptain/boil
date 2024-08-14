@@ -15,7 +15,7 @@ const Hero = () => (
       }
       description={
         <>
-          I have problems sitting still and have always loved{' '}
+          I have issues sitting still and have always loved{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             technology
           </a>{' '}
