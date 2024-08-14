@@ -37,13 +37,13 @@ const Hero = () => (
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://x.com/ktfcaptain">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
             />
           </a>
-          <a href="/">
+          <a href="https://facebook.com/ktfcaptain">
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
@@ -55,7 +55,7 @@ const Hero = () => (
               alt="Linkedin icon"
             />
           </a>
-          <a href="https://youtube.com/@modafaku/">
+          <a href="https://youtube.com/@ktf.captain/">
             <HeroSocial
               src="/assets/images/youtube-icon.png"
               alt="Youtube icon"
